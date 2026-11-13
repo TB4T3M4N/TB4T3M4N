@@ -2,7 +2,7 @@
 
 IT security professional in Lake City, Washington. I work Microsoft federal post-sales technical routing, after support engineering on Microsoft Defender for Endpoint, Defender for Office 365, and Entra ID.
 
-Also available for wedding and event sound.
+Also available for wedding and event sound engineering.
 
 - Site: [tb4t3m4n.github.io](https://tb4t3m4n.github.io)
 - Resume: [tb4t3m4n.github.io/resume](https://tb4t3m4n.github.io/resume/)
